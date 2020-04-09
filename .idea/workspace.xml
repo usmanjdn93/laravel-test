@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0322fb03-4a6f-4393-8082-381bc81cd8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/show.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-movies-example" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -153,6 +149,8 @@
       <updated>1586421202675</updated>
       <workItem from="1586421206806" duration="1730000" />
       <workItem from="1586426138478" duration="863000" />
+      <workItem from="1586436835272" duration="685000" />
+      <workItem from="1586450168158" duration="18000" />
     </task>
     <servers />
   </component>
@@ -168,14 +166,18 @@
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="572" y="0" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/62.0.1538.900@62.0.1538.900" timestamp="1586422780280" />
+    <state x="611" y="203" key="FileChooserDialogImpl" timestamp="1586450177748">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="611" y="203" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1586450177748" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1586421751791">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state width="498" height="446" key="SwitcherDM/62.0.1538.900@62.0.1538.900" timestamp="1586421751791" />
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586426314039">
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586450168227">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1586426314039" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1586450168227" />
     <state x="487" y="200" key="run.anything.popup" timestamp="1586421767468">
       <screen x="62" y="0" width="1538" height="900" />
     </state>

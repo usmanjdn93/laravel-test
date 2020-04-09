@@ -72,7 +72,7 @@ class Post extends Model
      */
     private function getLocalTimeZone()
     {
-        $ip = file_get_contents("http://ipecho.net/plain");
+        $ip = request()->ip();
         $url = 'http://ip-api.com/json/' . $ip;
         $tz = file_get_contents($url);
         $tz = json_decode($tz, true)['timezone'];
